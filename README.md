@@ -1,4 +1,4 @@
-Technologies
+### Technologies
 * Kotlin + Java
 * RxJava
 * Compose
@@ -6,6 +6,6 @@ Technologies
 * SharedPreferences
 * Junit with Mockito
 
-Architecture
+### Architecture
 * Repository Pattern
 * MVVM
