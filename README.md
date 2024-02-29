@@ -1,3 +1,5 @@
+Android Weather implementation using a mix of old and new technologies
+
 ### Technologies
 * Kotlin + Java
 * RxJava
@@ -9,3 +11,4 @@
 ### Architecture
 * Repository Pattern
 * MVVM
+* ViewModel unit tests
