@@ -3,8 +3,8 @@ Technologies
 * RxJava
 * Compose
 * Retrofit with Gson
-* Junit with Mockito
 * SharedPreferences
+* Junit with Mockito
 
 Architecture
 * Repository Pattern
